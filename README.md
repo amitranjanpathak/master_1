@@ -1,3 +1,3 @@
 # master_1
 My first project
-Author Amit Ranjan Pathak
+Author - Amit Ranjan Pathak
